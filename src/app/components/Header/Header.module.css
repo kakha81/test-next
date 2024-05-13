@@ -1,6 +1,11 @@
 .container {
   padding: 16px;
-  background-color: aliceblue;
+  background-color: dodgerblue;
   display: flex;
   gap: 16px;
+}
+
+.link {
+  text-decoration: none;
+  color: white;
 }
