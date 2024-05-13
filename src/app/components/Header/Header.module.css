@@ -1,0 +1,6 @@
+.container {
+  padding: 16px;
+  background-color: aliceblue;
+  display: flex;
+  gap: 16px;
+}
