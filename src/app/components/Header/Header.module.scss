@@ -1,11 +1,13 @@
+@import '../../colors.scss';
+
 .container {
   padding: 16px;
-  background-color: dodgerblue;
+  background-color: $primaryHoverColor;
   display: flex;
   gap: 16px;
 }
 
 .link {
   text-decoration: none;
-  color: white;
+  color: $white;
 }
